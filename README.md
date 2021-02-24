@@ -2,6 +2,7 @@
 I’m Brenda and I'm currently learning how to work with GitHub as Digital Analyst 🌱 
 
 ⚙️ *Tech stack focus:*
+---
 
 - BigQuery
 - SQL
